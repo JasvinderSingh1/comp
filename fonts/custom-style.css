@@ -1,0 +1,25 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.929;
+    letter-spacing: 0.7px;
+    color: #525252;
+}
+.container.content-container {
+max-width: 600px;
+margin: 10% auto 0;
+border: #dcdcdc solid 1px;
+padding: 30px 20px;
+border-radius: 5px;
+text-align: center;
+box-shadow: 0 0 10px rgba(0,0,0,0.1);
+-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.1);
+font-size: 18px;
+}
+
+.container.content-container p {
+margin-bottom: 0;
+}
+
+a {
+    color: #44bad4;
+}
